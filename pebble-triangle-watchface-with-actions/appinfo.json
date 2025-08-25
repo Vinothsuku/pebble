@@ -1,0 +1,19 @@
+{
+  "uuid": "b2f6b2a2-8a2e-4d4f-9a50-9e2b36b9a111",
+  "shortName": "TriTime",
+  "longName": "Triangle Time",
+  "companyName": "vinoth",
+  "versionLabel": "1.0",
+  "sdkVersion": "4",
+  "targetPlatforms": [
+    "aplite",
+    "basalt",
+    "chalk"
+  ],
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": []
+  }
+}
